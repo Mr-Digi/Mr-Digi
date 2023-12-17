@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mr-Digi
 - 👀 I’m interested in games and computer programming
-- 🌱 I make different quality of life things
-- 📫 How to reach me on discord and steam
+- 🌱 I make different quality of life application for everyday use
+- 📫 You can contact me using the website below
 
 ## Skill Set :muscle:
 
